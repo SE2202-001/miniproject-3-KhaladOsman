@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fcr-Lcjc)
 
-# Info - Name: Khalad Osman, Id: Kosman7, Student Number: 251342198
+# Info- Name: Khalad Osman, Id: Kosman7, Student Number: 251342198
 
 
 # Mini Project 3: Upwork Jobs Analysis
